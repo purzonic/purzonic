@@ -1,227 +1,131 @@
-☢ THOMAS ANDERSON
-SOFTWARE ENGINEER // DIGITAL SYSTEMS ENTHUSIAST
-text
-╔══════════════════════════════════════════════════════════╗
-║                                                          ║
-║   ████████╗██╗  ██╗ ██████╗ ███╗   ███╗ █████╗ ███████╗ ║
-║   ╚══██╔══╝██║  ██║██╔═══██╗████╗ ████║██╔══██╗██╔════╝ ║
-║      ██║   ███████║██║   ██║██╔████╔██║███████║███████╗ ║
-║      ██║   ██╔══██║██║   ██║██║╚██╔╝██║██╔══██║╚════██║ ║
-║      ██║   ██║  ██║╚██████╔╝██║ ╚═╝ ██║██║  ██║███████║ ║
-║      ╚═╝   ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝ ║
-║                                                          ║
-║              [ DIGITAL IDENTITY RECORD ]                 ║
-║                                                          ║
-╚══════════════════════════════════════════════════════════╝
+🧬 THOMAS ANDERSON
+FULL-STACK DEVELOPER · DIGITAL ARCHITECT · SYSTEM BUILDER
 
+!Typing SVG
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:090014,50:5B00FF,100:00F7FF&text=ENTER%20THE%20MATRIX&fontColor=FFFFFF&fontSize=38&fontAlignY=38&animation=twinkling&desc=Reality%20is%20just%20another%20interface.&descAlignY=60&descSize=14" width="100%"/>
+
+01010100 01001000 01001111 01001101 01000001 01010011
+
+⚡ I turn complex ideas into functional digital experiences.
+
+🧠 My playground is code. My weapon is logic. My limitation is imagination.
+
+⛧ WHO AM I?
+
+I'm Thomas Anderson — a developer fascinated by the intersection of technology, creativity, and problem-solving.
+
+I don't see programming as simply writing lines of code. I see it as constructing digital environments, connecting systems, and transforming abstract concepts into something people can actually use.
+
+My approach combines frontend engineering, backend logic, interface architecture, and an obsession with understanding how things work beneath the surface.
+
+I build. I experiment. I break things. I rebuild them better.
+
+js
+const thomas = {
+  identity: "Full-Stack Developer",
+  mindset: "Think different. Build different.",
+  interests: [
+    "Web Engineering",
+    "Creative Development",
+    "System Architecture",
+    "Interactive Experiences",
+    "Problem Solving"
+  ],
+  philosophy: "Everything brilliant is simple."
+};
+
+console.log("SYSTEM ONLINE ⚡");
+
+☣️ TECH DNA
+Frontend — Visual Engineering
+
+!React !Next.js !TypeScript !JavaScript !Angular !Three.js
+
+Backend — Under The Hood
+
+!Node.js !Express !PHP !MySQL
+
+Development Environment
+
+!Vite !Git !Apache
+
+🧪 EXPERIMENTS & DIGITAL CREATIONS
+
+Not just repositories. Every project is another experiment in engineering.
+
+01 / CRAWRIX — SEO INTELLIGENCE
+
+TYPESCRIPT · WEB DEVELOPMENT
+
+A tool designed to simplify SEO analysis and improve online visibility through keyword-driven link discovery.
+
+Focus: SEO analysis · Search workflows · Web tooling
+
+02 / 3D CHESS — SPATIAL INTERACTION
+
+THREE.JS · JAVASCRIPT · REACT
+
+An interactive 3D chess experience developed during an intensive hackathon.
+
+Contributed to the 3D implementation, frontend/backend integration, debugging, and collaborative feature delivery under time pressure.
+
+Focus: 3D environments · Integration · Rapid development
+
+03 / SMART HOME — CONNECTED SYSTEMS
+
+IOT · MQTT · NETWORKING
+
+A smart-home network simulation involving VLANs, DHCP, static routing, and MQTT communication.
+
+Focus: Connected devices · Network infrastructure · Communication protocols
+
+04 / IEECafe — DIGITAL EXPERIENCE
+
+NEXT.JS · REACT 19 · TYPESCRIPT
+
+A website built for the MVEK buffet, using a modern frontend stack.
+
+Focus: Modern web interfaces · Component architecture
+
+05 / INDIEPLAY — GAME DISCOVERY
+
+PHP · CSS · MYSQL
+
+A full-stack web application for browsing and managing indie video games.
+
+Focus: Database integration · Web application development
+
+06 / CRYPTODASH — MARKET VISUALIZATION
+
+ANGULAR · TYPESCRIPT · COINGECKO API
+
+A cryptocurrency dashboard featuring market overviews, searchable coin tables, sorting, and price charts.
+
+Focus: API integration · Data visualization · Interactive interfaces
+
+🧠 ENGINEERING PHILOSOPHY
+text
+[01] Curiosity > Comfort
+[02] Logic > Guesswork
+[03] Architecture > Random Code
+[04] Creativity > Templates
+[05] Learning > Standing Still
+
+
+I believe great software comes from the ability to connect technical knowledge with creative thinking.
+
+I enjoy exploring unfamiliar technologies, understanding complex systems, and finding elegant solutions to difficult problems.
+
+☠️ CURRENT MISSION
+Expanding my full-stack engineering knowledge.
+Exploring interactive and immersive web technologies.
+Building practical applications with modern JavaScript frameworks.
+Experimenting with APIs, integrations, and system architecture.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:5B00FF,100:090014&height=120&section=footer&animation=twinkling" width="100%"/>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Courier+New&weight=700&size=18&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=%3E+Booting+developer+environment...;%3E+Loading+creative+modules...;%3E+Compiling+ideas+into+reality...;%3E+STATUS%3A+READY_FOR_DEPLOYMENT" />
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=39FF14" width="100%"/>
-
-01. IDENTITY
-
-Subject: Thomas Anderson
-Classification: Software Engineer
-Specialization: Full-Stack Web Development
-Operating Mode: Creative / Analytical / Experimental
-Primary Environment: Modern Web Ecosystem
-
-I am a software developer driven by curiosity, experimentation, and the desire to understand what happens behind the interface.
-
-I work across the web development ecosystem, combining frontend technologies, backend functionality, interactive experiences, and data-driven applications.
-
-My mindset is simple:
-
-Don't memorize the system. Understand the system. Then build something better.
-
-I enjoy transforming ideas into working software, exploring unfamiliar technologies, and solving problems through structured thinking.
-
-02. SYSTEM CAPABILITIES
-bash
-$ thomas --capabilities --verbose
-
-[+] FRONTEND_ENGINEERING
-    React / Next.js / Angular
-    TypeScript / JavaScript
-    CSS / Modern UI Development
-
-[+] BACKEND_ENGINEERING
-    Node.js / Express
-    PHP / MySQL
-    API Integration
-
-[+] INTERACTIVE_TECHNOLOGIES
-    Three.js
-    3D Web Experiences
-    Interactive Interfaces
-
-[+] DEVELOPMENT_WORKFLOW
-    Git / Vite
-    Apache / XAMPP
-    Debugging / Integration
-
-[+] NETWORKING_AND_IOT
-    MQTT
-    VLAN / DHCP
-    Static Routing
-
-03. PROJECT ARCHIVE
-
-<details>
-<summary>🧿 PROJECT_001 — CRAWRIX / SEO INTELLIGENCE</summary>
-
-Technology: TypeScript
-
-An open-source SEO analysis tool designed to simplify keyword-based link discovery and improve online visibility.
-
-text
-MODULE: SEO ANALYSIS
-TYPE: WEB TOOL
-STATUS: PUBLIC REPOSITORY
-
-
-</details>
-
-<details>
-<summary>♟ PROJECT_002 — 3D CHESS / SPATIAL ENGINEERING</summary>
-
-Technology: Three.js, JavaScript, React
-
-An interactive 3D chess project developed during an intensive 8-hour hackathon.
-
-Contributions included frontend/backend integration, interactive 3D functionality, debugging, and collaborative development.
-
-text
-MODULE: 3D INTERACTION
-TYPE: HACKATHON PROJECT
-FOCUS: FRONTEND + BACKEND INTEGRATION
-
-
-</details>
-
-<details>
-<summary>⌘ PROJECT_003 — SMART HOME / IOT NETWORK</summary>
-
-Technology: MQTT, VLAN, DHCP, Static Routing
-
-A simulated smart-home network built around connected devices and MQTT communication.
-
-text
-MODULE: CONNECTED SYSTEMS
-TYPE: NETWORK SIMULATION
-FOCUS: DEVICE COMMUNICATION
-
-
-</details>
-
-<details>
-<summary>◈ PROJECT_004 — IEECafe / WEB PLATFORM</summary>
-
-Technology: Next.js 15, React 19, TypeScript
-
-A modern website developed for the MVEK buffet.
-
-text
-MODULE: WEB INTERFACE
-TYPE: WEBSITE
-STACK: NEXT.JS + REACT
-
-
-</details>
-
-<details>
-<summary>♜ PROJECT_005 — INDIEPLAY / GAME DISCOVERY</summary>
-
-Technology: PHP, CSS, MySQL, Apache
-
-A full-stack platform for browsing and managing indie video games.
-
-text
-MODULE: GAME DISCOVERY
-TYPE: FULL-STACK APPLICATION
-DATABASE: MYSQL
-
-
-</details>
-
-<details>
-<summary>₿ PROJECT_006 — CRYPTODASH / MARKET SYSTEM</summary>
-
-Technology: Angular 20, TypeScript, CoinGecko API
-
-A cryptocurrency dashboard with searchable market data, sortable coin listings, and interactive price charts.
-
-text
-MODULE: FINANCIAL DATA
-TYPE: INTERACTIVE DASHBOARD
-API: COINGECKO
-
-
-</details>
-
-04. TECHNOLOGY MATRIX
-DOMAIN	TECHNOLOGIES
-Frontend	React, Next.js, Angular
-Languages	TypeScript, JavaScript, PHP
-Backend	Node.js, Express
-3D Development	Three.js
-Database	MySQL
-APIs	REST / CoinGecko
-Networking	MQTT, VLAN, DHCP
-Tooling	Git, Vite, Apache, XAMPP
-05. DEVELOPER MINDSET
-python
-class ThomasAnderson:
-
-    def __init__(self):
-        self.mindset = "Continuous Evolution"
-        self.focus = "Software Engineering"
-        self.motivation = "Curiosity"
-        self.limitations = None
-
-    def build(self, idea):
-        return self.engineer(idea)
-
-    def evolve(self):
-        while True:
-            self.learn()
-            self.experiment()
-            self.improve()
-
-
-Core principles:
-
-🜏 Understand before implementing.
-⛓ Build systems, not temporary patches.
-⌬ Experiment beyond familiar technologies.
-⚙ Turn abstract concepts into functional products.
-☯ Keep learning, keep questioning.
-06. NEXT OPERATIONS
-text
-[ RUNNING ] Full-stack development
-[ RUNNING ] Modern frontend engineering
-[ RUNNING ] Interactive web technologies
-[ EXPLORING ] New architectures and technologies
-[ ALWAYS ] Learning / Experimenting / Building
-
-text
-  _____ _   _  ____     ___  _   _ _____
- |_   _| | | |/ ___|   / _ \| \ | | ____|
-   | | | |_| | |  _   | | | |  \| |  _|
-   | | |  _  | |_| |  | |_| | |\  | |___
-   |_| |_| |_|\____|   \___/|_| \_|_____|
-
-       [ SESSION TERMINATED ]
-       [ BUT THE CODE LIVES ON ]
-
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,50:102010,100:050505&height=100&section=footer&animation=fadeIn"/>
-</p>
-
-<p align="center">
-<code>sudo make the_impossible_possible</code>
+<code>END OF TRANSMISSION</code><br/>
+<b>⚡ THE SYSTEM IS NEVER FINISHED. ⚡</b>
 </p>
